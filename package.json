@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "delay": "^5.0.0",
-    "fastify": "^4.17.0",
+    "fastify": "^4.29.1",
     "roarr": "^7.15.0",
     "serialize-error": "^11.0.0"
   },
